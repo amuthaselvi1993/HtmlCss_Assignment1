@@ -1,0 +1,48 @@
+body {
+  color: rgb(28, 41, 138);
+  background-color: rgb(216, 246, 216);
+  /* text-align: center; */
+}
+header {
+  color: white;
+  background-color: rgba(69, 180, 211, 0.825);
+  height: 100px;
+  font-size: 1.5em;
+  font-weight: 300;
+  font-family: "Lucida Sans";
+}
+header div {
+  display: flex;
+  gap: 350px;
+  text-align: center;
+}
+header img {
+  width: 120px;
+  height: 100px;
+}
+nav {
+  text-align: left;
+  font-size: 1.5em;
+}
+nav ul {
+  list-style-type: none;
+  font-family: "Lucida Sans";
+}
+nav li {
+  display: inline-block;
+  margin-right: 25px;
+  color: rgb(28, 41, 138);
+}
+.main_section_subs {
+  text-align: center;
+}
+.main_section_subs h4 {
+  text-decoration: underline;
+  font-size: 2.5em;
+}
+#social_media {
+  font-family: "Edu AU VIC WA NT Dots";
+}
+.main_section_subs p {
+  font-size: 1.5em;
+}
